@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-Create `.env.devepoment` based on `.env.example` file.
+Create `.env.development` based on `.env.example` file.
 
 Run the development server:
 
